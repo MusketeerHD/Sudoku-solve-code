@@ -1,3 +1,0 @@
-https://www.kaggle.com/datasets/bryanpark/sudoku/code ( Dataset + Multiple Source Code)
-
-https://www.kaggle.com/code/yashchoudhary/deep-sudoku-solver-multiple-approaches (Guide)

@@ -14,7 +14,7 @@
 
 ### ✨ [Demo](https://github.com/MusketeerHD/Sudoku-solve-code/blob/main/README.md)
 
-### How to use
+## How to use
 Untuk menggunakan program ini, lakukan langkah-langkah berikut:
 
 1. Pastikan Python dan Jupyter Notebook telah terinstall di komputer Anda, atau bisa juga dengan menggunakan [google colaboratory](https://colab.research.google.com/)
@@ -27,7 +27,7 @@ Untuk menggunakan program ini, lakukan langkah-langkah berikut:
 
 Atau bisa baca juga di file `ReadME to Run`
 
-### Format file teks input
+## Format file teks input
 File teks input harus memenuhi format berikut:
 
 * Setiap baris mewakili satu baris pada papan Sudoku.
@@ -47,11 +47,11 @@ Contoh file teks input:
 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0
 ```
-### Dataset
+## Dataset
 
 Program ini juga menyediakan dataset dalam folder `sudoku csv`. Dataset ini berisi 1 million teka-teki Sudoku dengan tingkat kesulitan yang berbeda-beda. Untuk menggunakan dataset ini, pilih salah satu file dari folder tersebut ketika diminta memasukkan input pada program.
 
-### Contribution
+## Contribution
 
 Jika ingin berkontribusi pada pengembangan program ini, silakan melakukan pull request pada repository ini.
 
